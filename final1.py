@@ -10,7 +10,7 @@ import ollama
 # Configuration
 # -----------------------------------------------------------------------------
 PRINCIPAL_EMAIL = "principal@consultingfirm.com"
-MODEL_NAME = "llama3.2"
+MODEL_NAME = "llama"
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
