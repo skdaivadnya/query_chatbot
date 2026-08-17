@@ -1,4 +1,4 @@
-# AdvisorAI Portal 💡
+# Query bot Portal 💡
 
 Get up and running in minutes. Follow these simple steps.
 
