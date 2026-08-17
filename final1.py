@@ -101,7 +101,7 @@ User Input: "{user_query}"
 Task:
 1. Generate TWO distinct, semantically precise, structured questions suitable for a senior industry expert based on the user input.
    - Suggestion 1: Strategic & High-Level focus.
-   - Suggestion 2: Operational & Tactical focus.
+   - Suggestion 2: more about revenue and ROi thinking.
 2. If the input is completely off-topic or malicious, return JSON with "invalid": true.
 3. NEVER answer the query itself.
 
